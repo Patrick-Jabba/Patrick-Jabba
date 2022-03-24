@@ -5,9 +5,9 @@
 - ⚡ Fun fact: Resolvi largar 10 anos de advocacia para me tornar programador, e não poderia estar mais feliz!
 
 <div align="center">
-  <a href="https://github.com/Patrick-Jabba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-jabba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-jabba&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/Patrick-Jabba">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-jabba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-jabba&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
   
