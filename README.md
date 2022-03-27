@@ -1,7 +1,7 @@
 ### Hello there! General Kenobi...
 
 - 🔭 Hoje sou Residente em TIC/Software no SERRATEC
-- 🌱 Estudando Java, HTML5, CSS3, JavaScript, MongoDB, SQL, React
+- 🌱 Estudando Java, HTML5, CSS3, JavaScript, React, MongoDB, SQL.
 - ⚡ Fun fact: Resolvi largar 10 anos de advocacia para me tornar programador, e não poderia estar mais feliz!
 
 <div align="center">
