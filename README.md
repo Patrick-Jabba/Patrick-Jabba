@@ -1,9 +1,8 @@
-### Hello there! General Kenobi...
+<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Patrick 🤓</h1>
 
-- 🔭 Hoje sou Residente em TIC/Software no SERRATEC
-- 🌱 Estudando Java, HTML5, CSS3, JavaScript, React, MongoDB, PostgresSQL.
-- ⚡ Fun fact: Resolvi largar 10 anos de advocacia para me tornar programador, e não poderia estar mais feliz!
-
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
 <div align="center">
 <a href="https://github.com/Patrick-Jabba">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patrick-jabba&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
