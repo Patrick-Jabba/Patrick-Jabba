@@ -27,20 +27,25 @@
 <img align="center" alt="Patrick-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="center" alt="Patrick-Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img align="center" alt="Patrick-GraphQl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-          
+           
 
 ##
       
-<div> 
+ 
 <a href="https://dev.to/patrickjabba" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+![](https://komarev.com/ghpvc/?username=patrick-jabba&style=for-the-badge)
 <a href="https://www.linkedin.com/in/patrick-monteiro-fischer-1316369b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:monteiromonterio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12167587969?si=86f1e8b83fa74a60" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/tricks_n_meeples/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/SharpzinU" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
+
 ## 
 
 ![Snake animation](https://github.com/patrick-jabba/patrick-jabba/blob/output/github-contribution-grid-snake.svg)
+
+
   
 </div>
+   
