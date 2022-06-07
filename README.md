@@ -1,4 +1,4 @@
-<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="30px"> Eu sou o Patrick 🤓</h1>
+<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="30px"> I'm Patrick 🤓</h1>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
