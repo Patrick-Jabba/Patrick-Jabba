@@ -1,4 +1,4 @@
-<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="30px"> I'm Patrick 🤓</h1>
+<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="40px"> I'm Patrick 🤓</h1>
 
 ### Lately I've been studying with React Js and Node Js technologies in a more direct way, and I've also had some experiences using the Java language.
 
