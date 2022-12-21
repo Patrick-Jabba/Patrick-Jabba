@@ -1,8 +1,8 @@
 <h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "50px" width="40px"> I'm Patrick 🤓</h1>
 
-### Lately I've been studying with React Js and Node Js technologies in a more direct way, and I've also had some experiences using the Java language.
+### Lately I've been working with ReactJs and VueJs technologies in a more direct way, and I've also had some experiences using the Java and C# languages. 
 
-### I'm a very communicative person, I work well in a team, proactive and at the moment I'm looking for an opportunity to enter this technological market and show my potential, in addition to evolving my learning.
+### I'm a very communicative person, I work well in a team, proactive and at the moment I'm having a great opportunity to show my potential in the technological market in addition to evolving my learning working at the Alterdata Software.
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
