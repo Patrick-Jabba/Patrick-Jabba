@@ -1,6 +1,6 @@
 <h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height= "50px" width="40px"> I'm Patrick 🤓</h1>
 
-### Lately I've been working with ReactJs and VueJs technologies in a more direct way, and I've also had some experiences using the Java and C# languages. 
+### Lately I've been working with .NET and VueJs technologies in a more direct way, and I've also had some experiences using Java and React JS. 
 
 ### I'm a very communicative person, great teamwork, proactive and at the moment I'm having a great opportunity to show my potential in the technological market in addition to evolving my learning working at the Alterdata Software.
 
