@@ -33,7 +33,7 @@
 <img alt="Patrick-VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img alt="Patrick-React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-# Social Medias:
+## Social Medias:
   
 <a href="https://dev.to/patrickjabba" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 ![](https://komarev.com/ghpvc/?username=patrick-jabba&style=for-the-badge)
